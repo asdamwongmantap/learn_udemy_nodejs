@@ -1,0 +1,16 @@
+{
+  "name": "3.udemy_nodejs_improved_wf",
+  "version": "1.0.0",
+  "description": "improve workflow and debugging nodejs course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "amiruddin saddam",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
