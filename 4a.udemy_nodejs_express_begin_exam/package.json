@@ -1,0 +1,19 @@
+{
+  "name": "4.udemy_nodejs_express_begin",
+  "version": "1.0.0",
+  "description": "begin express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "amiruddin saddam",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
